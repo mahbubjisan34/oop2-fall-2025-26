@@ -1,0 +1,15 @@
+D:\Developer\oop2-fall-2025-26\project\mortagecalculator\bin\Debug\net9.0\mortagecalculator.exe
+D:\Developer\oop2-fall-2025-26\project\mortagecalculator\bin\Debug\net9.0\mortagecalculator.deps.json
+D:\Developer\oop2-fall-2025-26\project\mortagecalculator\bin\Debug\net9.0\mortagecalculator.runtimeconfig.json
+D:\Developer\oop2-fall-2025-26\project\mortagecalculator\bin\Debug\net9.0\mortagecalculator.dll
+D:\Developer\oop2-fall-2025-26\project\mortagecalculator\bin\Debug\net9.0\mortagecalculator.pdb
+D:\Developer\oop2-fall-2025-26\project\mortagecalculator\obj\Debug\net9.0\mortagecalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer\oop2-fall-2025-26\project\mortagecalculator\obj\Debug\net9.0\mortagecalculator.AssemblyInfoInputs.cache
+D:\Developer\oop2-fall-2025-26\project\mortagecalculator\obj\Debug\net9.0\mortagecalculator.AssemblyInfo.cs
+D:\Developer\oop2-fall-2025-26\project\mortagecalculator\obj\Debug\net9.0\mortagecalculator.csproj.CoreCompileInputs.cache
+D:\Developer\oop2-fall-2025-26\project\mortagecalculator\obj\Debug\net9.0\mortagecalculator.sourcelink.json
+D:\Developer\oop2-fall-2025-26\project\mortagecalculator\obj\Debug\net9.0\mortagecalculator.dll
+D:\Developer\oop2-fall-2025-26\project\mortagecalculator\obj\Debug\net9.0\refint\mortagecalculator.dll
+D:\Developer\oop2-fall-2025-26\project\mortagecalculator\obj\Debug\net9.0\mortagecalculator.pdb
+D:\Developer\oop2-fall-2025-26\project\mortagecalculator\obj\Debug\net9.0\mortagecalculator.genruntimeconfig.cache
+D:\Developer\oop2-fall-2025-26\project\mortagecalculator\obj\Debug\net9.0\ref\mortagecalculator.dll
